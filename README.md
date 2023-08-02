@@ -30,5 +30,5 @@ Thank you for taking the time to explore my GitHub profile. Your support and eng
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mohamed-reda-92a617201/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-brightgreen)](https://wa.me/201155921429)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mohamed_aboreda_2020@yahoo.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:mohamed_aboreda_2020@yahoo.com)
 
