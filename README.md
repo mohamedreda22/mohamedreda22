@@ -1,64 +1,194 @@
-# 👋 Welcome to My GitHub Profile!
+<div align="center">
 
-## 🌟 About Me
+# 👨‍💻 Mohamed Reda
 
-Hi there! I'm **Mohamed Reda**, a 23-year-old tech enthusiast and fresh graduate in **Computer Science** from **Helwan University**, Egypt (Class of 2024, **Very Good GPA**). My journey into tech hasn’t been linear, but it has been transformative. From non-technical roles to discovering my true passion for **web development**, I've turned challenges into growth opportunities.  
+### Full-Stack Developer | MERN & MEAN | Building Real Products
 
-In 2023, I decided to take my career into my own hands, diving deep into the tech industry, exploring fields, earning certificates, and leading projects. Today, I'm a skilled **MEAN & MERN-stack developer** with a hunger for learning, building, and creating innovative solutions.  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+%26+MEAN+Stack+Engineer;Building+Madrasak+EdTech+Platform;Always+Learning+New+Technologies" />
 
----
+<br/>
 
-## 🎯 My Journey & Achievements  
+<img src="https://img.shields.io/github/followers/mohamedreda22?style=for-the-badge&color=0D1117&labelColor=000000"/>
+<img src="https://img.shields.io/github/stars/mohamedreda22?style=for-the-badge&color=0D1117&labelColor=000000"/>
 
-- **Team Leader & Speaker**: I led my graduation project team to success, where I organized tasks, guided my team, and handled the final discussion as the team speaker.  
-- **Certificates**:
-  - **React Basics** and **React Advanced** (Meta)
-  - **MEAN-Stack Diploma** (Orange Digital Center)
-  - **MEAN-Stack Diploma** (NTI)
-- **Internships & Training**: Gained hands-on experience through professional internships and intensive training programs, including full-stack web development.  
-- **Military Service**: Currently serving as a soldier in the Egyptian Army (Feb 2025).  
+</div>
 
 ---
 
-## 🛠️ Skills  
+# 🧑‍🚀 About Me
 
-- **Technologies**: MEAN & MERN Stack (Angular, React, Node.js, Express, MongoDB)  
-- **Programming**: JavaScript, Python, C  
-- **Tools**: Visual Studio Code, Postman, MongoDB Compass  
+Hi 👋 I'm **Mohamed Reda**, a **Full-Stack Developer from Egypt 🇪🇬** and a **Computer Science graduate from Helwan University (Class of 2024)**.
 
----
+I specialize in building **scalable web applications using MERN & MEAN stacks**, focusing on **performance, clean architecture, and real-world product development**.
 
-## 🌟 Projects  
+My journey into tech wasn’t linear. I explored different paths before discovering my passion for **software engineering and product building**. Since then, I’ve been focused on **turning ideas into real platforms**.
 
-### [📦 Casual Bazaar E-commerce Website](https://github.com/mohamedreda22/casual-bazaar-nti)
-A platform for a casual store, allowing clients to browse items, place orders, and helping store owners manage inventory and sales efficiently.
+Currently I am:
 
-### [🍴 Bistro Bliss Restaurant Website](https://github.com/mohamedreda22/ODC-Final-project-Demo)  
-A full-stack project for a restaurant featuring menu discovery, table reservations, and management tools for owners.
-
-### [🏫 Helwan Newline System](https://github.com/mohamedreda22/Helwan-Newsline-System)
-A graduation project designed to simplify communication within a university community, fostering transparency and engagement among students, faculty, and administrators.
-
-### [📚 Kitabi Tany Website](https://github.com/mohamedreda22/Kitabi-Tany-)
-A platform for buying and selling used books, making books more affordable and accessible, with features like categories, reviews, and seller listings.
+- 🚀 Building **Madrasak**, an Egyptian EdTech platform
+- 💻 Developing full-stack web applications
+- 🧠 Learning **advanced backend architecture & system design**
+- 🎯 Looking for **Frontend / Full-Stack opportunities**
 
 ---
 
-## 💬 Services  
+# 🚀 Current Main Project
 
-Are you a **store owner**, **entrepreneur**, or someone with a great idea? Let me help you bring your vision to life! I specialize in crafting powerful, user-friendly, and innovative solutions that align with your needs. Together, let’s make your project shine!  
+## 🏫 Madrasak — Egyptian EdTech Platform
+
+**Madrasak** is a platform designed to connect **independent teachers with students**.
+
+Main features:
+
+• Recorded courses  
+• Live sessions  
+• Egyptian online payment integration  
+• Teacher dashboards  
+• Student progress tracking  
+• Lesson-based purchases  
+• Short educational reels
+
+Goal: build a **modern education ecosystem for Egypt**.
 
 ---
 
-## 🤝 Let’s Connect  
+# 💻 Tech Stack
 
-Feel free to reach out for collaborations, discussions, or even just to say hi!  
+## Frontend
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/swe-mohamed-reda/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/mohamedreda22)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-brightgreen)](https://wa.me/201155921429)  
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:mohamedreda.dev@gmail.com)  
+<p>
+<img src="https://skillicons.dev/icons?i=react,angular,html,css,js" />
+</p>
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+## Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,firebase" />
+</p>
+
+## Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel" />
+</p>
 
 ---
 
-✨ **Thank you for visiting my GitHub profile!** Let’s collaborate and create something amazing together. 🚀
+# 📦 Projects
+
+## 🛒 Casual Bazaar — E-commerce Platform
+
+Full-stack e-commerce platform allowing customers to browse products and place orders while admins manage inventory and sales.
+
+**Tech:** MERN Stack
+
+🔗  
+https://github.com/mohamedreda22/casual-bazaar-nti
+
+---
+
+## 🍽 Bistro Bliss — Restaurant System
+
+Restaurant web platform supporting menu browsing, reservations, and management tools for restaurant owners.
+
+**Tech:** MEAN Stack
+
+🔗  
+https://github.com/mohamedreda22/ODC-Final-project-Demo
+
+---
+
+## 🏫 Helwan Newsline System (Graduation Project)
+
+A platform designed to improve communication between **students, professors, and administration**.
+
+I worked as **team leader and presenter** during the final discussion.
+
+🔗  
+https://github.com/mohamedreda22/Helwan-Newsline-System
+
+---
+
+## 📚 Kitabi Tany — Used Books Marketplace
+
+Marketplace that helps students **buy and sell used books** at affordable prices.
+
+🔗  
+https://github.com/mohamedreda22/Kitabi-Tany-
+
+---
+
+# 🎓 Education
+
+**BSc Computer Science**  
+Helwan University  
+Class of 2024  
+Grade: **Very Good**
+
+---
+
+# 📜 Certifications
+
+• Meta — React Basics  
+• Meta — Advanced React  
+• Orange Digital Center — MEAN Stack Diploma  
+• NTI — MEAN Stack Diploma  
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mohamedreda22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedreda22&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000"/>
+
+</div>
+
+---
+
+# 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedreda22&theme=tokyo-night&bg_color=000000&hide_border=true"/>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Reda-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swe-mohamed-reda/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-mohamedreda22-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohamedreda22)
+
+[![Email](https://img.shields.io/badge/Email-mohamedreda.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedreda.dev@gmail.com)
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201155921429)
+
+</div>
+
+---
+
+# ⚡ Philosophy
+
+> Great software is not just about writing code —  
+> it's about **building products that solve real problems.**
+
+---
+
+<div align="center">
+
+⭐ **If you like my work, consider starring my repositories.**
+
+</div>
